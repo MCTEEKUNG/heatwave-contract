@@ -1,0 +1,14 @@
+{
+  "status": "building",
+  "pending": {
+    "state": "building",
+    "archived_forecasts": 1,
+    "latest_observed_date": "2026-06-10",
+    "ready_issue_leads": 0,
+    "next_issue_date": "2026-05-31",
+    "next_lead": 2,
+    "next_window_close": "2026-06-20",
+    "days_remaining": 10
+  },
+  "generated_at": "2026-07-01T14:53:14Z"
+}
