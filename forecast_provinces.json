@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "model": "logistic_balanced_cal",
-  "generated_at": "2026-07-13T05:47:13.522823+00:00",
+  "generated_at": "2026-07-20T05:48:39.805876+00:00",
   "n_provinces": 77,
   "provinces": [
     {
@@ -12,45 +12,45 @@
       "region": "Central",
       "lat": 13.7563,
       "lon": 100.5018,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2964,
+          "probability": 0.3343,
           "climatology_base_rate": 0.1169,
-          "ratio_vs_normal": 2.53,
+          "ratio_vs_normal": 2.86,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3276,
+          "probability": 0.3608,
           "climatology_base_rate": 0.117,
-          "ratio_vs_normal": 2.8,
+          "ratio_vs_normal": 3.08,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2973,
+          "probability": 0.3255,
           "climatology_base_rate": 0.1171,
-          "ratio_vs_normal": 2.54,
+          "ratio_vs_normal": 2.78,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2944,
+          "probability": 0.3496,
           "climatology_base_rate": 0.1166,
-          "ratio_vs_normal": 2.52,
+          "ratio_vs_normal": 3.0,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3211,
+          "probability": 0.3696,
           "climatology_base_rate": 0.1161,
-          "ratio_vs_normal": 2.77,
+          "ratio_vs_normal": 3.18,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -64,45 +64,45 @@
       "region": "Central",
       "lat": 13.599,
       "lon": 100.5998,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3353,
+          "probability": 0.5271,
           "climatology_base_rate": 0.1057,
-          "ratio_vs_normal": 3.17,
+          "ratio_vs_normal": 4.99,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3527,
+          "probability": 0.5393,
           "climatology_base_rate": 0.1058,
-          "ratio_vs_normal": 3.33,
+          "ratio_vs_normal": 5.1,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2952,
+          "probability": 0.4774,
           "climatology_base_rate": 0.1058,
-          "ratio_vs_normal": 2.79,
+          "ratio_vs_normal": 4.51,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2863,
+          "probability": 0.4701,
           "climatology_base_rate": 0.1059,
-          "ratio_vs_normal": 2.7,
+          "ratio_vs_normal": 4.44,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3051,
+          "probability": 0.4688,
           "climatology_base_rate": 0.106,
-          "ratio_vs_normal": 2.88,
+          "ratio_vs_normal": 4.42,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -116,45 +116,45 @@
       "region": "Central",
       "lat": 13.8591,
       "lon": 100.5217,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2987,
+          "probability": 0.3367,
           "climatology_base_rate": 0.1169,
-          "ratio_vs_normal": 2.55,
+          "ratio_vs_normal": 2.88,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3299,
+          "probability": 0.3632,
           "climatology_base_rate": 0.117,
-          "ratio_vs_normal": 2.82,
+          "ratio_vs_normal": 3.1,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2993,
+          "probability": 0.3276,
           "climatology_base_rate": 0.1171,
-          "ratio_vs_normal": 2.56,
+          "ratio_vs_normal": 2.8,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2963,
+          "probability": 0.3517,
           "climatology_base_rate": 0.1166,
-          "ratio_vs_normal": 2.54,
+          "ratio_vs_normal": 3.02,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3232,
+          "probability": 0.3718,
           "climatology_base_rate": 0.1161,
-          "ratio_vs_normal": 2.78,
+          "ratio_vs_normal": 3.2,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -168,45 +168,45 @@
       "region": "Central",
       "lat": 14.0208,
       "lon": 100.525,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2817,
+          "probability": 0.2792,
           "climatology_base_rate": 0.1226,
-          "ratio_vs_normal": 2.3,
+          "ratio_vs_normal": 2.28,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3126,
+          "probability": 0.3014,
           "climatology_base_rate": 0.1227,
-          "ratio_vs_normal": 2.55,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.46,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2862,
+          "probability": 0.2751,
           "climatology_base_rate": 0.1228,
-          "ratio_vs_normal": 2.33,
+          "ratio_vs_normal": 2.24,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2858,
+          "probability": 0.31,
           "climatology_base_rate": 0.1223,
-          "ratio_vs_normal": 2.34,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.53,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3229,
+          "probability": 0.3446,
           "climatology_base_rate": 0.1217,
-          "ratio_vs_normal": 2.65,
+          "ratio_vs_normal": 2.83,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -220,45 +220,45 @@
       "region": "Central",
       "lat": 14.3692,
       "lon": 100.5877,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2821,
+          "probability": 0.2744,
           "climatology_base_rate": 0.1184,
-          "ratio_vs_normal": 2.38,
+          "ratio_vs_normal": 2.32,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3141,
+          "probability": 0.3009,
           "climatology_base_rate": 0.1185,
-          "ratio_vs_normal": 2.65,
+          "ratio_vs_normal": 2.54,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2903,
+          "probability": 0.2753,
           "climatology_base_rate": 0.1186,
-          "ratio_vs_normal": 2.45,
+          "ratio_vs_normal": 2.32,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2914,
+          "probability": 0.311,
           "climatology_base_rate": 0.1181,
-          "ratio_vs_normal": 2.47,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.63,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3306,
+          "probability": 0.3431,
           "climatology_base_rate": 0.1175,
-          "ratio_vs_normal": 2.81,
+          "ratio_vs_normal": 2.92,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -272,45 +272,45 @@
       "region": "Central",
       "lat": 14.5896,
       "lon": 100.455,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3128,
+          "probability": 0.3101,
           "climatology_base_rate": 0.1193,
-          "ratio_vs_normal": 2.62,
+          "ratio_vs_normal": 2.6,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3473,
+          "probability": 0.3376,
           "climatology_base_rate": 0.1194,
-          "ratio_vs_normal": 2.91,
+          "ratio_vs_normal": 2.83,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.321,
+          "probability": 0.3064,
           "climatology_base_rate": 0.1195,
-          "ratio_vs_normal": 2.69,
+          "ratio_vs_normal": 2.56,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3223,
+          "probability": 0.3366,
           "climatology_base_rate": 0.119,
-          "ratio_vs_normal": 2.71,
+          "ratio_vs_normal": 2.83,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3576,
+          "probability": 0.3709,
           "climatology_base_rate": 0.1184,
-          "ratio_vs_normal": 3.02,
+          "ratio_vs_normal": 3.13,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -324,45 +324,45 @@
       "region": "Central",
       "lat": 14.7995,
       "lon": 100.6534,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3453,
+          "probability": 0.3587,
           "climatology_base_rate": 0.1248,
-          "ratio_vs_normal": 2.77,
+          "ratio_vs_normal": 2.87,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3803,
+          "probability": 0.3739,
           "climatology_base_rate": 0.1249,
-          "ratio_vs_normal": 3.05,
+          "ratio_vs_normal": 2.99,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.342,
+          "probability": 0.3346,
           "climatology_base_rate": 0.125,
-          "ratio_vs_normal": 2.74,
+          "ratio_vs_normal": 2.68,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3404,
+          "probability": 0.365,
           "climatology_base_rate": 0.1245,
-          "ratio_vs_normal": 2.73,
+          "ratio_vs_normal": 2.93,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3751,
+          "probability": 0.4091,
           "climatology_base_rate": 0.1239,
-          "ratio_vs_normal": 3.03,
+          "ratio_vs_normal": 3.3,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -376,45 +376,45 @@
       "region": "Central",
       "lat": 14.8907,
       "lon": 100.3967,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3668,
+          "probability": 0.3789,
           "climatology_base_rate": 0.122,
-          "ratio_vs_normal": 3.01,
+          "ratio_vs_normal": 3.11,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3963,
+          "probability": 0.3939,
           "climatology_base_rate": 0.122,
-          "ratio_vs_normal": 3.25,
+          "ratio_vs_normal": 3.23,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3557,
+          "probability": 0.3441,
           "climatology_base_rate": 0.1221,
-          "ratio_vs_normal": 2.91,
+          "ratio_vs_normal": 2.82,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3487,
+          "probability": 0.3632,
           "climatology_base_rate": 0.1217,
-          "ratio_vs_normal": 2.87,
+          "ratio_vs_normal": 2.99,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3836,
+          "probability": 0.3994,
           "climatology_base_rate": 0.1211,
-          "ratio_vs_normal": 3.17,
+          "ratio_vs_normal": 3.3,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -428,45 +428,45 @@
       "region": "Central",
       "lat": 15.1851,
       "lon": 100.1251,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3963,
+          "probability": 0.4007,
           "climatology_base_rate": 0.1197,
-          "ratio_vs_normal": 3.31,
+          "ratio_vs_normal": 3.35,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4241,
+          "probability": 0.4175,
           "climatology_base_rate": 0.1197,
-          "ratio_vs_normal": 3.54,
+          "ratio_vs_normal": 3.49,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3801,
+          "probability": 0.3603,
           "climatology_base_rate": 0.1197,
-          "ratio_vs_normal": 3.17,
+          "ratio_vs_normal": 3.01,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3659,
+          "probability": 0.3733,
           "climatology_base_rate": 0.1193,
-          "ratio_vs_normal": 3.07,
+          "ratio_vs_normal": 3.13,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.4009,
+          "probability": 0.3995,
           "climatology_base_rate": 0.1187,
-          "ratio_vs_normal": 3.38,
+          "ratio_vs_normal": 3.37,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -480,45 +480,45 @@
       "region": "Central",
       "lat": 14.5289,
       "lon": 100.9101,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2733,
+          "probability": 0.274,
           "climatology_base_rate": 0.1093,
-          "ratio_vs_normal": 2.5,
+          "ratio_vs_normal": 2.51,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2954,
+          "probability": 0.2809,
           "climatology_base_rate": 0.1093,
-          "ratio_vs_normal": 2.7,
+          "ratio_vs_normal": 2.57,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.261,
+          "probability": 0.2505,
           "climatology_base_rate": 0.1094,
-          "ratio_vs_normal": 2.39,
+          "ratio_vs_normal": 2.29,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2682,
+          "probability": 0.29,
           "climatology_base_rate": 0.1095,
-          "ratio_vs_normal": 2.45,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.65,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3156,
+          "probability": 0.3452,
           "climatology_base_rate": 0.1095,
-          "ratio_vs_normal": 2.88,
+          "ratio_vs_normal": 3.15,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -532,47 +532,47 @@
       "region": "Central",
       "lat": 14.2069,
       "lon": 101.213,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2226,
+          "probability": 0.2136,
           "climatology_base_rate": 0.0995,
-          "ratio_vs_normal": 2.24,
+          "ratio_vs_normal": 2.15,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.238,
+          "probability": 0.2246,
           "climatology_base_rate": 0.0995,
-          "ratio_vs_normal": 2.39,
+          "ratio_vs_normal": 2.26,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2045,
+          "probability": 0.1985,
           "climatology_base_rate": 0.0996,
-          "ratio_vs_normal": 2.05,
+          "ratio_vs_normal": 1.99,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2074,
+          "probability": 0.2306,
           "climatology_base_rate": 0.0997,
-          "ratio_vs_normal": 2.08,
+          "ratio_vs_normal": 2.31,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2461,
+          "probability": 0.2741,
           "climatology_base_rate": 0.0997,
-          "ratio_vs_normal": 2.47,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.75,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -584,45 +584,45 @@
       "region": "Central",
       "lat": 13.8196,
       "lon": 100.0645,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3382,
+          "probability": 0.3937,
           "climatology_base_rate": 0.1127,
-          "ratio_vs_normal": 3.0,
+          "ratio_vs_normal": 3.49,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3668,
+          "probability": 0.4277,
           "climatology_base_rate": 0.1128,
-          "ratio_vs_normal": 3.25,
+          "ratio_vs_normal": 3.79,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3349,
+          "probability": 0.3882,
           "climatology_base_rate": 0.1129,
-          "ratio_vs_normal": 2.97,
+          "ratio_vs_normal": 3.44,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3327,
+          "probability": 0.4095,
           "climatology_base_rate": 0.1124,
-          "ratio_vs_normal": 2.96,
+          "ratio_vs_normal": 3.64,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3574,
+          "probability": 0.4104,
           "climatology_base_rate": 0.1119,
-          "ratio_vs_normal": 3.19,
+          "ratio_vs_normal": 3.67,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -636,45 +636,45 @@
       "region": "Central",
       "lat": 13.5475,
       "lon": 100.2746,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3303,
+          "probability": 0.4773,
           "climatology_base_rate": 0.1094,
-          "ratio_vs_normal": 3.02,
+          "ratio_vs_normal": 4.36,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3505,
+          "probability": 0.4909,
           "climatology_base_rate": 0.1094,
-          "ratio_vs_normal": 3.2,
+          "ratio_vs_normal": 4.49,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.298,
+          "probability": 0.4295,
           "climatology_base_rate": 0.1095,
-          "ratio_vs_normal": 2.72,
+          "ratio_vs_normal": 3.92,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2921,
+          "probability": 0.4274,
           "climatology_base_rate": 0.1096,
-          "ratio_vs_normal": 2.67,
+          "ratio_vs_normal": 3.9,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3109,
+          "probability": 0.4321,
           "climatology_base_rate": 0.1096,
-          "ratio_vs_normal": 2.84,
+          "ratio_vs_normal": 3.94,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -688,27 +688,27 @@
       "region": "Central",
       "lat": 13.4099,
       "lon": 100.0023,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3568,
+          "probability": 0.3546,
           "climatology_base_rate": 0.1148,
-          "ratio_vs_normal": 3.11,
+          "ratio_vs_normal": 3.09,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3821,
+          "probability": 0.3898,
           "climatology_base_rate": 0.1149,
-          "ratio_vs_normal": 3.32,
+          "ratio_vs_normal": 3.39,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3498,
+          "probability": 0.3499,
           "climatology_base_rate": 0.115,
           "ratio_vs_normal": 3.04,
           "risk_level_th": "สูง",
@@ -716,17 +716,17 @@
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3441,
+          "probability": 0.3682,
           "climatology_base_rate": 0.1151,
-          "ratio_vs_normal": 2.99,
+          "ratio_vs_normal": 3.2,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.36,
+          "probability": 0.3729,
           "climatology_base_rate": 0.1149,
-          "ratio_vs_normal": 3.13,
+          "ratio_vs_normal": 3.25,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -740,47 +740,47 @@
       "region": "East",
       "lat": 13.3611,
       "lon": 100.9847,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3042,
+          "probability": 0.3439,
           "climatology_base_rate": 0.113,
-          "ratio_vs_normal": 2.69,
+          "ratio_vs_normal": 3.04,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3254,
+          "probability": 0.3578,
           "climatology_base_rate": 0.1131,
-          "ratio_vs_normal": 2.88,
+          "ratio_vs_normal": 3.16,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.274,
+          "probability": 0.3007,
           "climatology_base_rate": 0.1127,
-          "ratio_vs_normal": 2.43,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.67,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2565,
+          "probability": 0.3068,
           "climatology_base_rate": 0.1123,
-          "ratio_vs_normal": 2.28,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.73,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2785,
+          "probability": 0.3263,
           "climatology_base_rate": 0.1124,
-          "ratio_vs_normal": 2.48,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.9,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -792,45 +792,45 @@
       "region": "East",
       "lat": 12.6814,
       "lon": 101.2789,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2553,
+          "probability": 0.4307,
           "climatology_base_rate": 0.0994,
-          "ratio_vs_normal": 2.57,
+          "ratio_vs_normal": 4.33,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2838,
+          "probability": 0.4609,
           "climatology_base_rate": 0.0995,
-          "ratio_vs_normal": 2.85,
+          "ratio_vs_normal": 4.63,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2475,
+          "probability": 0.4188,
           "climatology_base_rate": 0.0995,
-          "ratio_vs_normal": 2.49,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 4.21,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2402,
+          "probability": 0.4125,
           "climatology_base_rate": 0.0996,
-          "ratio_vs_normal": 2.41,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 4.14,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2525,
+          "probability": 0.4048,
           "climatology_base_rate": 0.0996,
-          "ratio_vs_normal": 2.53,
+          "ratio_vs_normal": 4.06,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -844,45 +844,45 @@
       "region": "East",
       "lat": 12.6113,
       "lon": 102.1039,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2851,
+          "probability": 0.3985,
           "climatology_base_rate": 0.0903,
-          "ratio_vs_normal": 3.16,
+          "ratio_vs_normal": 4.41,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3052,
+          "probability": 0.4141,
           "climatology_base_rate": 0.0904,
-          "ratio_vs_normal": 3.38,
+          "ratio_vs_normal": 4.58,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2652,
+          "probability": 0.3533,
           "climatology_base_rate": 0.0905,
-          "ratio_vs_normal": 2.93,
+          "ratio_vs_normal": 3.91,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2632,
+          "probability": 0.3408,
           "climatology_base_rate": 0.0905,
-          "ratio_vs_normal": 2.91,
+          "ratio_vs_normal": 3.77,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2766,
+          "probability": 0.3493,
           "climatology_base_rate": 0.0906,
-          "ratio_vs_normal": 3.05,
+          "ratio_vs_normal": 3.86,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -896,45 +896,45 @@
       "region": "East",
       "lat": 12.2428,
       "lon": 102.5177,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.1781,
+          "probability": 0.2462,
           "climatology_base_rate": 0.0965,
-          "ratio_vs_normal": 1.85,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.55,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2056,
+          "probability": 0.269,
           "climatology_base_rate": 0.0965,
-          "ratio_vs_normal": 2.13,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.79,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.1966,
+          "probability": 0.2216,
           "climatology_base_rate": 0.0966,
-          "ratio_vs_normal": 2.04,
+          "ratio_vs_normal": 2.29,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2201,
+          "probability": 0.2034,
           "climatology_base_rate": 0.0966,
-          "ratio_vs_normal": 2.28,
+          "ratio_vs_normal": 2.1,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2242,
+          "probability": 0.2357,
           "climatology_base_rate": 0.0967,
-          "ratio_vs_normal": 2.32,
+          "ratio_vs_normal": 2.44,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -948,45 +948,45 @@
       "region": "East",
       "lat": 13.6904,
       "lon": 101.0779,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2818,
+          "probability": 0.2966,
           "climatology_base_rate": 0.1139,
-          "ratio_vs_normal": 2.47,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.6,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3114,
+          "probability": 0.31,
           "climatology_base_rate": 0.114,
-          "ratio_vs_normal": 2.73,
+          "ratio_vs_normal": 2.72,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2784,
+          "probability": 0.279,
           "climatology_base_rate": 0.1141,
-          "ratio_vs_normal": 2.44,
+          "ratio_vs_normal": 2.45,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2772,
+          "probability": 0.31,
           "climatology_base_rate": 0.1136,
-          "ratio_vs_normal": 2.44,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.73,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3024,
+          "probability": 0.3441,
           "climatology_base_rate": 0.1133,
-          "ratio_vs_normal": 2.67,
+          "ratio_vs_normal": 3.04,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1000,45 +1000,45 @@
       "region": "East",
       "lat": 14.0509,
       "lon": 101.37,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2703,
+          "probability": 0.271,
           "climatology_base_rate": 0.1059,
-          "ratio_vs_normal": 2.55,
+          "ratio_vs_normal": 2.56,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.288,
+          "probability": 0.2757,
           "climatology_base_rate": 0.1059,
-          "ratio_vs_normal": 2.72,
+          "ratio_vs_normal": 2.6,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2487,
+          "probability": 0.2447,
           "climatology_base_rate": 0.106,
-          "ratio_vs_normal": 2.35,
+          "ratio_vs_normal": 2.31,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2461,
+          "probability": 0.2803,
           "climatology_base_rate": 0.1061,
-          "ratio_vs_normal": 2.32,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.64,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.284,
+          "probability": 0.3236,
           "climatology_base_rate": 0.1062,
-          "ratio_vs_normal": 2.68,
+          "ratio_vs_normal": 3.05,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1052,45 +1052,45 @@
       "region": "East",
       "lat": 13.824,
       "lon": 102.0645,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.4217,
+          "probability": 0.3811,
           "climatology_base_rate": 0.107,
-          "ratio_vs_normal": 3.94,
+          "ratio_vs_normal": 3.56,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4566,
+          "probability": 0.3911,
           "climatology_base_rate": 0.107,
-          "ratio_vs_normal": 4.27,
+          "ratio_vs_normal": 3.65,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.4015,
+          "probability": 0.3378,
           "climatology_base_rate": 0.1071,
-          "ratio_vs_normal": 3.75,
+          "ratio_vs_normal": 3.15,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3726,
+          "probability": 0.3569,
           "climatology_base_rate": 0.1072,
-          "ratio_vs_normal": 3.48,
+          "ratio_vs_normal": 3.33,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.396,
+          "probability": 0.3951,
           "climatology_base_rate": 0.1073,
-          "ratio_vs_normal": 3.69,
+          "ratio_vs_normal": 3.68,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1104,45 +1104,45 @@
       "region": "North",
       "lat": 18.7883,
       "lon": 98.9853,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3296,
+          "probability": 0.3623,
           "climatology_base_rate": 0.122,
-          "ratio_vs_normal": 2.7,
+          "ratio_vs_normal": 2.97,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3669,
+          "probability": 0.3754,
           "climatology_base_rate": 0.122,
-          "ratio_vs_normal": 3.01,
+          "ratio_vs_normal": 3.08,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3241,
+          "probability": 0.3086,
           "climatology_base_rate": 0.1221,
-          "ratio_vs_normal": 2.65,
+          "ratio_vs_normal": 2.53,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3281,
+          "probability": 0.3212,
           "climatology_base_rate": 0.1222,
-          "ratio_vs_normal": 2.68,
+          "ratio_vs_normal": 2.63,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.351,
+          "probability": 0.3349,
           "climatology_base_rate": 0.1218,
-          "ratio_vs_normal": 2.88,
+          "ratio_vs_normal": 2.75,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1156,45 +1156,45 @@
       "region": "North",
       "lat": 18.5743,
       "lon": 99.0087,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3215,
+          "probability": 0.3578,
           "climatology_base_rate": 0.1169,
-          "ratio_vs_normal": 2.75,
+          "ratio_vs_normal": 3.06,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3674,
+          "probability": 0.3759,
           "climatology_base_rate": 0.1168,
-          "ratio_vs_normal": 3.14,
+          "ratio_vs_normal": 3.22,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3287,
+          "probability": 0.3158,
           "climatology_base_rate": 0.1169,
-          "ratio_vs_normal": 2.81,
+          "ratio_vs_normal": 2.7,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.324,
+          "probability": 0.3225,
           "climatology_base_rate": 0.117,
-          "ratio_vs_normal": 2.77,
+          "ratio_vs_normal": 2.76,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3439,
+          "probability": 0.3378,
           "climatology_base_rate": 0.1169,
-          "ratio_vs_normal": 2.94,
+          "ratio_vs_normal": 2.89,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1208,45 +1208,45 @@
       "region": "North",
       "lat": 18.2888,
       "lon": 99.4908,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2907,
+          "probability": 0.3126,
           "climatology_base_rate": 0.1167,
-          "ratio_vs_normal": 2.49,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.68,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3426,
+          "probability": 0.3391,
           "climatology_base_rate": 0.1167,
-          "ratio_vs_normal": 2.93,
+          "ratio_vs_normal": 2.9,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3082,
+          "probability": 0.2839,
           "climatology_base_rate": 0.1168,
-          "ratio_vs_normal": 2.64,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.43,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.299,
+          "probability": 0.2854,
           "climatology_base_rate": 0.1169,
-          "ratio_vs_normal": 2.56,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.44,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3083,
+          "probability": 0.3001,
           "climatology_base_rate": 0.117,
-          "ratio_vs_normal": 2.64,
+          "ratio_vs_normal": 2.57,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1260,45 +1260,45 @@
       "region": "North",
       "lat": 17.62,
       "lon": 100.0993,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3101,
+          "probability": 0.2957,
           "climatology_base_rate": 0.1204,
-          "ratio_vs_normal": 2.57,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.46,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.347,
+          "probability": 0.3197,
           "climatology_base_rate": 0.1205,
-          "ratio_vs_normal": 2.88,
+          "ratio_vs_normal": 2.65,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.313,
+          "probability": 0.2668,
           "climatology_base_rate": 0.1206,
-          "ratio_vs_normal": 2.6,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.21,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3128,
+          "probability": 0.2715,
           "climatology_base_rate": 0.1201,
-          "ratio_vs_normal": 2.6,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.26,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3361,
+          "probability": 0.3031,
           "climatology_base_rate": 0.1195,
-          "ratio_vs_normal": 2.81,
+          "ratio_vs_normal": 2.54,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1312,45 +1312,45 @@
       "region": "North",
       "lat": 18.1445,
       "lon": 100.1405,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2419,
+          "probability": 0.2332,
           "climatology_base_rate": 0.1188,
-          "ratio_vs_normal": 2.04,
+          "ratio_vs_normal": 1.96,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2724,
+          "probability": 0.2411,
           "climatology_base_rate": 0.1188,
-          "ratio_vs_normal": 2.29,
+          "ratio_vs_normal": 2.03,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2373,
+          "probability": 0.2043,
           "climatology_base_rate": 0.1189,
-          "ratio_vs_normal": 2.0,
+          "ratio_vs_normal": 1.72,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2295,
+          "probability": 0.2336,
           "climatology_base_rate": 0.1185,
-          "ratio_vs_normal": 1.94,
+          "ratio_vs_normal": 1.97,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2709,
+          "probability": 0.2632,
           "climatology_base_rate": 0.118,
-          "ratio_vs_normal": 2.3,
+          "ratio_vs_normal": 2.23,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -1364,47 +1364,47 @@
       "region": "North",
       "lat": 18.7756,
       "lon": 100.773,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2719,
+          "probability": 0.2621,
           "climatology_base_rate": 0.1277,
-          "ratio_vs_normal": 2.13,
+          "ratio_vs_normal": 2.05,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3206,
+          "probability": 0.2755,
           "climatology_base_rate": 0.1278,
-          "ratio_vs_normal": 2.51,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.16,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.293,
+          "probability": 0.234,
           "climatology_base_rate": 0.1279,
-          "ratio_vs_normal": 2.29,
+          "ratio_vs_normal": 1.83,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2945,
+          "probability": 0.2573,
           "climatology_base_rate": 0.128,
-          "ratio_vs_normal": 2.3,
+          "ratio_vs_normal": 2.01,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3298,
+          "probability": 0.3032,
           "climatology_base_rate": 0.1281,
-          "ratio_vs_normal": 2.58,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.37,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         }
       ]
     },
@@ -1416,11 +1416,11 @@
       "region": "North",
       "lat": 19.1664,
       "lon": 99.9003,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3517,
+          "probability": 0.3512,
           "climatology_base_rate": 0.1119,
           "ratio_vs_normal": 3.14,
           "risk_level_th": "สูง",
@@ -1428,33 +1428,33 @@
         },
         {
           "lead_weeks": 3,
-          "probability": 0.391,
+          "probability": 0.3655,
           "climatology_base_rate": 0.112,
-          "ratio_vs_normal": 3.49,
+          "ratio_vs_normal": 3.26,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3492,
+          "probability": 0.3111,
           "climatology_base_rate": 0.1121,
-          "ratio_vs_normal": 3.12,
+          "ratio_vs_normal": 2.78,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3488,
+          "probability": 0.3373,
           "climatology_base_rate": 0.1121,
-          "ratio_vs_normal": 3.11,
+          "ratio_vs_normal": 3.01,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3707,
+          "probability": 0.3606,
           "climatology_base_rate": 0.1117,
-          "ratio_vs_normal": 3.32,
+          "ratio_vs_normal": 3.23,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1468,43 +1468,43 @@
       "region": "North",
       "lat": 19.9105,
       "lon": 99.8406,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.246,
+          "probability": 0.2392,
           "climatology_base_rate": 0.1068,
-          "ratio_vs_normal": 2.3,
+          "ratio_vs_normal": 2.24,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2697,
+          "probability": 0.252,
           "climatology_base_rate": 0.1062,
-          "ratio_vs_normal": 2.54,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.37,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2359,
+          "probability": 0.2127,
           "climatology_base_rate": 0.1062,
-          "ratio_vs_normal": 2.22,
+          "ratio_vs_normal": 2.0,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2406,
+          "probability": 0.2369,
           "climatology_base_rate": 0.1063,
-          "ratio_vs_normal": 2.26,
+          "ratio_vs_normal": 2.23,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.264,
+          "probability": 0.2635,
           "climatology_base_rate": 0.1059,
           "ratio_vs_normal": 2.49,
           "risk_level_th": "ค่อนข้างสูง",
@@ -1520,45 +1520,45 @@
       "region": "North",
       "lat": 19.302,
       "lon": 97.9654,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.236,
+          "probability": 0.2054,
           "climatology_base_rate": 0.0902,
-          "ratio_vs_normal": 2.62,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.28,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2692,
+          "probability": 0.2154,
           "climatology_base_rate": 0.0903,
-          "ratio_vs_normal": 2.98,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.39,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2407,
+          "probability": 0.1862,
           "climatology_base_rate": 0.0904,
-          "ratio_vs_normal": 2.66,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.06,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2356,
+          "probability": 0.2172,
           "climatology_base_rate": 0.0904,
-          "ratio_vs_normal": 2.61,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.4,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2636,
+          "probability": 0.2397,
           "climatology_base_rate": 0.0905,
-          "ratio_vs_normal": 2.91,
+          "ratio_vs_normal": 2.65,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1572,45 +1572,45 @@
       "region": "North",
       "lat": 15.7047,
       "lon": 100.1372,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.349,
+          "probability": 0.3365,
           "climatology_base_rate": 0.1135,
-          "ratio_vs_normal": 3.08,
+          "ratio_vs_normal": 2.97,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3771,
+          "probability": 0.3588,
           "climatology_base_rate": 0.1135,
-          "ratio_vs_normal": 3.32,
+          "ratio_vs_normal": 3.16,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3348,
+          "probability": 0.3098,
           "climatology_base_rate": 0.1136,
-          "ratio_vs_normal": 2.95,
+          "ratio_vs_normal": 2.73,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3204,
+          "probability": 0.3364,
           "climatology_base_rate": 0.1132,
-          "ratio_vs_normal": 2.83,
+          "ratio_vs_normal": 2.97,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3548,
+          "probability": 0.3457,
           "climatology_base_rate": 0.1127,
-          "ratio_vs_normal": 3.15,
+          "ratio_vs_normal": 3.07,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1624,45 +1624,45 @@
       "region": "North",
       "lat": 15.3835,
       "lon": 100.0246,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3341,
+          "probability": 0.3181,
           "climatology_base_rate": 0.1161,
-          "ratio_vs_normal": 2.88,
+          "ratio_vs_normal": 2.74,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3648,
+          "probability": 0.3423,
           "climatology_base_rate": 0.1158,
-          "ratio_vs_normal": 3.15,
+          "ratio_vs_normal": 2.96,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3271,
+          "probability": 0.2959,
           "climatology_base_rate": 0.1159,
-          "ratio_vs_normal": 2.82,
+          "ratio_vs_normal": 2.55,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3146,
+          "probability": 0.3216,
           "climatology_base_rate": 0.1154,
-          "ratio_vs_normal": 2.73,
+          "ratio_vs_normal": 2.79,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3525,
+          "probability": 0.335,
           "climatology_base_rate": 0.1149,
-          "ratio_vs_normal": 3.07,
+          "ratio_vs_normal": 2.92,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1676,45 +1676,45 @@
       "region": "North",
       "lat": 16.4828,
       "lon": 99.5226,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2918,
+          "probability": 0.2711,
           "climatology_base_rate": 0.1087,
-          "ratio_vs_normal": 2.68,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.49,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.324,
+          "probability": 0.29,
           "climatology_base_rate": 0.1087,
-          "ratio_vs_normal": 2.98,
+          "ratio_vs_normal": 2.67,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2873,
+          "probability": 0.2509,
           "climatology_base_rate": 0.1088,
-          "ratio_vs_normal": 2.64,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.31,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2752,
+          "probability": 0.2774,
           "climatology_base_rate": 0.1084,
-          "ratio_vs_normal": 2.54,
+          "ratio_vs_normal": 2.56,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3192,
+          "probability": 0.3071,
           "climatology_base_rate": 0.1078,
-          "ratio_vs_normal": 2.96,
+          "ratio_vs_normal": 2.85,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1728,47 +1728,47 @@
       "region": "North",
       "lat": 16.8839,
       "lon": 99.1258,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.324,
+          "probability": 0.3082,
           "climatology_base_rate": 0.1284,
-          "ratio_vs_normal": 2.52,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.4,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3665,
+          "probability": 0.3391,
           "climatology_base_rate": 0.1285,
-          "ratio_vs_normal": 2.85,
+          "ratio_vs_normal": 2.64,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3272,
+          "probability": 0.285,
           "climatology_base_rate": 0.1285,
-          "ratio_vs_normal": 2.55,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.22,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.319,
+          "probability": 0.2987,
           "climatology_base_rate": 0.1281,
-          "ratio_vs_normal": 2.49,
+          "ratio_vs_normal": 2.33,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3414,
+          "probability": 0.3073,
           "climatology_base_rate": 0.1275,
-          "ratio_vs_normal": 2.68,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.41,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         }
       ]
     },
@@ -1780,47 +1780,47 @@
       "region": "North",
       "lat": 17.007,
       "lon": 99.8265,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.339,
+          "probability": 0.3193,
           "climatology_base_rate": 0.1242,
-          "ratio_vs_normal": 2.73,
+          "ratio_vs_normal": 2.57,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3831,
+          "probability": 0.3544,
           "climatology_base_rate": 0.1242,
-          "ratio_vs_normal": 3.08,
+          "ratio_vs_normal": 2.85,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3428,
+          "probability": 0.2957,
           "climatology_base_rate": 0.1243,
-          "ratio_vs_normal": 2.76,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.38,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3267,
+          "probability": 0.2937,
           "climatology_base_rate": 0.1239,
-          "ratio_vs_normal": 2.64,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.37,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.34,
+          "probability": 0.3067,
           "climatology_base_rate": 0.1233,
-          "ratio_vs_normal": 2.76,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.49,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         }
       ]
     },
@@ -1832,45 +1832,45 @@
       "region": "North",
       "lat": 16.8211,
       "lon": 100.2659,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2983,
+          "probability": 0.2761,
           "climatology_base_rate": 0.1086,
-          "ratio_vs_normal": 2.75,
+          "ratio_vs_normal": 2.54,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3195,
+          "probability": 0.2819,
           "climatology_base_rate": 0.1081,
-          "ratio_vs_normal": 2.95,
+          "ratio_vs_normal": 2.61,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2759,
+          "probability": 0.2373,
           "climatology_base_rate": 0.1082,
-          "ratio_vs_normal": 2.55,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.19,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2694,
+          "probability": 0.2608,
           "climatology_base_rate": 0.1077,
-          "ratio_vs_normal": 2.5,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.42,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3122,
+          "probability": 0.3076,
           "climatology_base_rate": 0.1072,
-          "ratio_vs_normal": 2.91,
+          "ratio_vs_normal": 2.87,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1884,45 +1884,45 @@
       "region": "North",
       "lat": 16.4429,
       "lon": 100.3487,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2665,
+          "probability": 0.2529,
           "climatology_base_rate": 0.1062,
-          "ratio_vs_normal": 2.51,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.38,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2806,
+          "probability": 0.2552,
           "climatology_base_rate": 0.1062,
-          "ratio_vs_normal": 2.64,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.4,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2454,
+          "probability": 0.2205,
           "climatology_base_rate": 0.1063,
-          "ratio_vs_normal": 2.31,
+          "ratio_vs_normal": 2.07,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2477,
+          "probability": 0.254,
           "climatology_base_rate": 0.1058,
-          "ratio_vs_normal": 2.34,
+          "ratio_vs_normal": 2.4,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2999,
+          "probability": 0.3032,
           "climatology_base_rate": 0.1052,
-          "ratio_vs_normal": 2.85,
+          "ratio_vs_normal": 2.88,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -1936,45 +1936,45 @@
       "region": "North",
       "lat": 16.419,
       "lon": 101.1591,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2269,
+          "probability": 0.2209,
           "climatology_base_rate": 0.1066,
-          "ratio_vs_normal": 2.13,
+          "ratio_vs_normal": 2.07,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2637,
+          "probability": 0.2342,
           "climatology_base_rate": 0.1067,
-          "ratio_vs_normal": 2.47,
+          "ratio_vs_normal": 2.2,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2342,
+          "probability": 0.1999,
           "climatology_base_rate": 0.1067,
-          "ratio_vs_normal": 2.19,
+          "ratio_vs_normal": 1.87,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2359,
+          "probability": 0.2198,
           "climatology_base_rate": 0.1064,
-          "ratio_vs_normal": 2.22,
+          "ratio_vs_normal": 2.07,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2583,
+          "probability": 0.2631,
           "climatology_base_rate": 0.1058,
-          "ratio_vs_normal": 2.44,
+          "ratio_vs_normal": 2.49,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -1988,47 +1988,47 @@
       "region": "Northeast",
       "lat": 14.9799,
       "lon": 102.0978,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.264,
+          "probability": 0.3254,
           "climatology_base_rate": 0.1243,
-          "ratio_vs_normal": 2.12,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.62,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3107,
+          "probability": 0.3466,
           "climatology_base_rate": 0.1243,
-          "ratio_vs_normal": 2.5,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.79,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2828,
+          "probability": 0.3035,
           "climatology_base_rate": 0.1244,
-          "ratio_vs_normal": 2.27,
+          "ratio_vs_normal": 2.44,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2887,
+          "probability": 0.3246,
           "climatology_base_rate": 0.1245,
-          "ratio_vs_normal": 2.32,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.61,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3089,
+          "probability": 0.3415,
           "climatology_base_rate": 0.1246,
-          "ratio_vs_normal": 2.48,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.74,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -2040,45 +2040,45 @@
       "region": "Northeast",
       "lat": 14.993,
       "lon": 103.1029,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3105,
+          "probability": 0.3602,
           "climatology_base_rate": 0.1291,
-          "ratio_vs_normal": 2.41,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.79,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3597,
+          "probability": 0.3844,
           "climatology_base_rate": 0.1292,
-          "ratio_vs_normal": 2.78,
+          "ratio_vs_normal": 2.98,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3152,
+          "probability": 0.3299,
           "climatology_base_rate": 0.1293,
-          "ratio_vs_normal": 2.44,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.55,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3018,
+          "probability": 0.3561,
           "climatology_base_rate": 0.1294,
-          "ratio_vs_normal": 2.33,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.75,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3294,
+          "probability": 0.3658,
           "climatology_base_rate": 0.1294,
-          "ratio_vs_normal": 2.54,
+          "ratio_vs_normal": 2.83,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2092,45 +2092,45 @@
       "region": "Northeast",
       "lat": 14.882,
       "lon": 103.496,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2992,
+          "probability": 0.3435,
           "climatology_base_rate": 0.1241,
-          "ratio_vs_normal": 2.41,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.77,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3476,
+          "probability": 0.36,
           "climatology_base_rate": 0.1242,
-          "ratio_vs_normal": 2.8,
+          "ratio_vs_normal": 2.9,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2989,
+          "probability": 0.3078,
           "climatology_base_rate": 0.1242,
-          "ratio_vs_normal": 2.41,
+          "ratio_vs_normal": 2.48,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.276,
+          "probability": 0.3299,
           "climatology_base_rate": 0.1243,
-          "ratio_vs_normal": 2.22,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.65,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3138,
+          "probability": 0.3582,
           "climatology_base_rate": 0.1244,
-          "ratio_vs_normal": 2.52,
+          "ratio_vs_normal": 2.88,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2144,45 +2144,45 @@
       "region": "Northeast",
       "lat": 15.1186,
       "lon": 104.322,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2781,
+          "probability": 0.2954,
           "climatology_base_rate": 0.1114,
-          "ratio_vs_normal": 2.5,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.65,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3189,
+          "probability": 0.3004,
           "climatology_base_rate": 0.1114,
-          "ratio_vs_normal": 2.86,
+          "ratio_vs_normal": 2.7,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2643,
+          "probability": 0.2631,
           "climatology_base_rate": 0.1115,
-          "ratio_vs_normal": 2.37,
+          "ratio_vs_normal": 2.36,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2256,
+          "probability": 0.3068,
           "climatology_base_rate": 0.1116,
-          "ratio_vs_normal": 2.02,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.75,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3015,
+          "probability": 0.3585,
           "climatology_base_rate": 0.1117,
-          "ratio_vs_normal": 2.7,
+          "ratio_vs_normal": 3.21,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2196,47 +2196,47 @@
       "region": "Northeast",
       "lat": 15.2448,
       "lon": 104.8473,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2256,
+          "probability": 0.2347,
           "climatology_base_rate": 0.1165,
-          "ratio_vs_normal": 1.94,
+          "ratio_vs_normal": 2.01,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.249,
+          "probability": 0.2284,
           "climatology_base_rate": 0.1166,
-          "ratio_vs_normal": 2.14,
+          "ratio_vs_normal": 1.96,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2034,
+          "probability": 0.2049,
           "climatology_base_rate": 0.1166,
-          "ratio_vs_normal": 1.74,
+          "ratio_vs_normal": 1.76,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.1769,
+          "probability": 0.2645,
           "climatology_base_rate": 0.1163,
-          "ratio_vs_normal": 1.52,
+          "ratio_vs_normal": 2.28,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2729,
+          "probability": 0.3315,
           "climatology_base_rate": 0.116,
-          "ratio_vs_normal": 2.35,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.86,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -2248,47 +2248,47 @@
       "region": "Northeast",
       "lat": 15.7942,
       "lon": 104.1452,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2761,
+          "probability": 0.2734,
           "climatology_base_rate": 0.1227,
-          "ratio_vs_normal": 2.25,
+          "ratio_vs_normal": 2.23,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3154,
+          "probability": 0.2758,
           "climatology_base_rate": 0.1228,
-          "ratio_vs_normal": 2.57,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
-        },
-        {
-          "lead_weeks": 4,
-          "probability": 0.2652,
-          "climatology_base_rate": 0.1229,
-          "ratio_vs_normal": 2.16,
+          "ratio_vs_normal": 2.25,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
-          "lead_weeks": 5,
-          "probability": 0.235,
-          "climatology_base_rate": 0.1225,
+          "lead_weeks": 4,
+          "probability": 0.2355,
+          "climatology_base_rate": 0.1229,
           "ratio_vs_normal": 1.92,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
-          "lead_weeks": 6,
-          "probability": 0.3017,
-          "climatology_base_rate": 0.1222,
-          "ratio_vs_normal": 2.47,
+          "lead_weeks": 5,
+          "probability": 0.2628,
+          "climatology_base_rate": 0.1225,
+          "ratio_vs_normal": 2.15,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
+        },
+        {
+          "lead_weeks": 6,
+          "probability": 0.3328,
+          "climatology_base_rate": 0.1222,
+          "ratio_vs_normal": 2.72,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -2300,45 +2300,45 @@
       "region": "Northeast",
       "lat": 15.8068,
       "lon": 102.0317,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2986,
+          "probability": 0.3468,
           "climatology_base_rate": 0.1233,
-          "ratio_vs_normal": 2.42,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.81,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.349,
+          "probability": 0.3709,
           "climatology_base_rate": 0.1233,
-          "ratio_vs_normal": 2.83,
+          "ratio_vs_normal": 3.01,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3152,
+          "probability": 0.3162,
           "climatology_base_rate": 0.1234,
-          "ratio_vs_normal": 2.55,
+          "ratio_vs_normal": 2.56,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3266,
+          "probability": 0.3326,
           "climatology_base_rate": 0.123,
-          "ratio_vs_normal": 2.65,
+          "ratio_vs_normal": 2.7,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3325,
+          "probability": 0.3476,
           "climatology_base_rate": 0.1227,
-          "ratio_vs_normal": 2.71,
+          "ratio_vs_normal": 2.83,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2352,47 +2352,47 @@
       "region": "Northeast",
       "lat": 15.8657,
       "lon": 104.6258,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2522,
+          "probability": 0.2462,
           "climatology_base_rate": 0.1208,
-          "ratio_vs_normal": 2.09,
+          "ratio_vs_normal": 2.04,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2785,
+          "probability": 0.2385,
           "climatology_base_rate": 0.1209,
-          "ratio_vs_normal": 2.3,
+          "ratio_vs_normal": 1.97,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2269,
+          "probability": 0.2061,
           "climatology_base_rate": 0.1209,
-          "ratio_vs_normal": 1.88,
+          "ratio_vs_normal": 1.7,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.198,
+          "probability": 0.2505,
           "climatology_base_rate": 0.1206,
-          "ratio_vs_normal": 1.64,
+          "ratio_vs_normal": 2.08,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2859,
+          "probability": 0.3276,
           "climatology_base_rate": 0.1203,
-          "ratio_vs_normal": 2.38,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.72,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -2404,45 +2404,45 @@
       "region": "Northeast",
       "lat": 18.3609,
       "lon": 103.6465,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2627,
+          "probability": 0.2727,
           "climatology_base_rate": 0.1179,
-          "ratio_vs_normal": 2.23,
+          "ratio_vs_normal": 2.31,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2855,
+          "probability": 0.2814,
           "climatology_base_rate": 0.118,
-          "ratio_vs_normal": 2.42,
+          "ratio_vs_normal": 2.38,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2527,
+          "probability": 0.2447,
           "climatology_base_rate": 0.1181,
-          "ratio_vs_normal": 2.14,
+          "ratio_vs_normal": 2.07,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2584,
+          "probability": 0.2877,
           "climatology_base_rate": 0.1177,
-          "ratio_vs_normal": 2.19,
+          "ratio_vs_normal": 2.44,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.313,
+          "probability": 0.3175,
           "climatology_base_rate": 0.1174,
-          "ratio_vs_normal": 2.67,
+          "ratio_vs_normal": 2.7,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2456,45 +2456,45 @@
       "region": "Northeast",
       "lat": 17.2041,
       "lon": 102.426,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.4008,
+          "probability": 0.4092,
           "climatology_base_rate": 0.1297,
-          "ratio_vs_normal": 3.09,
+          "ratio_vs_normal": 3.15,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4299,
+          "probability": 0.4193,
           "climatology_base_rate": 0.1298,
-          "ratio_vs_normal": 3.31,
+          "ratio_vs_normal": 3.23,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3752,
+          "probability": 0.3512,
           "climatology_base_rate": 0.1299,
-          "ratio_vs_normal": 2.89,
+          "ratio_vs_normal": 2.7,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3706,
+          "probability": 0.3511,
           "climatology_base_rate": 0.1295,
-          "ratio_vs_normal": 2.86,
+          "ratio_vs_normal": 2.71,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.381,
+          "probability": 0.3947,
           "climatology_base_rate": 0.1293,
-          "ratio_vs_normal": 2.95,
+          "ratio_vs_normal": 3.05,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2508,13 +2508,13 @@
       "region": "Northeast",
       "lat": 16.4419,
       "lon": 102.836,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3405,
+          "probability": 0.3665,
           "climatology_base_rate": 0.1354,
-          "ratio_vs_normal": 2.51,
+          "ratio_vs_normal": 2.71,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
@@ -2528,25 +2528,25 @@
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3361,
+          "probability": 0.3261,
           "climatology_base_rate": 0.1356,
-          "ratio_vs_normal": 2.48,
+          "ratio_vs_normal": 2.41,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3235,
+          "probability": 0.3427,
           "climatology_base_rate": 0.1352,
-          "ratio_vs_normal": 2.39,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.53,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3561,
+          "probability": 0.3696,
           "climatology_base_rate": 0.1349,
-          "ratio_vs_normal": 2.64,
+          "ratio_vs_normal": 2.74,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2560,45 +2560,45 @@
       "region": "Northeast",
       "lat": 17.4138,
       "lon": 102.787,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3869,
+          "probability": 0.3794,
           "climatology_base_rate": 0.1268,
-          "ratio_vs_normal": 3.05,
+          "ratio_vs_normal": 2.99,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4197,
+          "probability": 0.3854,
           "climatology_base_rate": 0.1269,
-          "ratio_vs_normal": 3.31,
+          "ratio_vs_normal": 3.04,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3682,
+          "probability": 0.3189,
           "climatology_base_rate": 0.127,
-          "ratio_vs_normal": 2.9,
+          "ratio_vs_normal": 2.51,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3629,
+          "probability": 0.3265,
           "climatology_base_rate": 0.1266,
-          "ratio_vs_normal": 2.87,
+          "ratio_vs_normal": 2.58,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3801,
+          "probability": 0.3726,
           "climatology_base_rate": 0.1263,
-          "ratio_vs_normal": 3.01,
+          "ratio_vs_normal": 2.95,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2612,45 +2612,45 @@
       "region": "Northeast",
       "lat": 17.486,
       "lon": 101.7223,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3913,
+          "probability": 0.4185,
           "climatology_base_rate": 0.1286,
-          "ratio_vs_normal": 3.04,
+          "ratio_vs_normal": 3.26,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4321,
+          "probability": 0.4402,
           "climatology_base_rate": 0.1283,
-          "ratio_vs_normal": 3.37,
+          "ratio_vs_normal": 3.43,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3805,
+          "probability": 0.371,
           "climatology_base_rate": 0.1284,
-          "ratio_vs_normal": 2.96,
+          "ratio_vs_normal": 2.89,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3662,
+          "probability": 0.3676,
           "climatology_base_rate": 0.128,
-          "ratio_vs_normal": 2.86,
+          "ratio_vs_normal": 2.87,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3685,
+          "probability": 0.3788,
           "climatology_base_rate": 0.1277,
-          "ratio_vs_normal": 2.89,
+          "ratio_vs_normal": 2.97,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2664,45 +2664,45 @@
       "region": "Northeast",
       "lat": 17.8783,
       "lon": 102.742,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3329,
+          "probability": 0.3102,
           "climatology_base_rate": 0.1201,
-          "ratio_vs_normal": 2.77,
+          "ratio_vs_normal": 2.58,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3613,
+          "probability": 0.3153,
           "climatology_base_rate": 0.1201,
-          "ratio_vs_normal": 3.01,
+          "ratio_vs_normal": 2.62,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3185,
+          "probability": 0.2648,
           "climatology_base_rate": 0.1202,
-          "ratio_vs_normal": 2.65,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.2,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3184,
+          "probability": 0.2922,
           "climatology_base_rate": 0.1198,
-          "ratio_vs_normal": 2.66,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.44,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3454,
+          "probability": 0.329,
           "climatology_base_rate": 0.1195,
-          "ratio_vs_normal": 2.89,
+          "ratio_vs_normal": 2.75,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2716,45 +2716,45 @@
       "region": "Northeast",
       "lat": 16.185,
       "lon": 103.3022,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3482,
+          "probability": 0.3652,
           "climatology_base_rate": 0.1414,
-          "ratio_vs_normal": 2.46,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.58,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.384,
+          "probability": 0.3719,
           "climatology_base_rate": 0.1415,
-          "ratio_vs_normal": 2.71,
+          "ratio_vs_normal": 2.63,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3336,
+          "probability": 0.3095,
           "climatology_base_rate": 0.1416,
-          "ratio_vs_normal": 2.36,
+          "ratio_vs_normal": 2.19,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3214,
+          "probability": 0.3206,
           "climatology_base_rate": 0.1413,
-          "ratio_vs_normal": 2.28,
+          "ratio_vs_normal": 2.27,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3593,
+          "probability": 0.3678,
           "climatology_base_rate": 0.141,
-          "ratio_vs_normal": 2.55,
+          "ratio_vs_normal": 2.61,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -2768,45 +2768,45 @@
       "region": "Northeast",
       "lat": 16.0538,
       "lon": 103.652,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2793,
+          "probability": 0.2917,
           "climatology_base_rate": 0.1333,
-          "ratio_vs_normal": 2.1,
+          "ratio_vs_normal": 2.19,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3149,
+          "probability": 0.2971,
           "climatology_base_rate": 0.1334,
-          "ratio_vs_normal": 2.36,
+          "ratio_vs_normal": 2.23,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.275,
+          "probability": 0.2507,
           "climatology_base_rate": 0.1335,
-          "ratio_vs_normal": 2.06,
+          "ratio_vs_normal": 1.88,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2654,
+          "probability": 0.2667,
           "climatology_base_rate": 0.1331,
-          "ratio_vs_normal": 1.99,
+          "ratio_vs_normal": 2.0,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3147,
+          "probability": 0.331,
           "climatology_base_rate": 0.1328,
-          "ratio_vs_normal": 2.37,
+          "ratio_vs_normal": 2.49,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -2820,47 +2820,47 @@
       "region": "Northeast",
       "lat": 16.4314,
       "lon": 103.5059,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3033,
+          "probability": 0.3217,
           "climatology_base_rate": 0.1371,
-          "ratio_vs_normal": 2.21,
+          "ratio_vs_normal": 2.35,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3295,
+          "probability": 0.3201,
           "climatology_base_rate": 0.1372,
-          "ratio_vs_normal": 2.4,
+          "ratio_vs_normal": 2.33,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2851,
+          "probability": 0.2692,
           "climatology_base_rate": 0.1373,
-          "ratio_vs_normal": 2.08,
+          "ratio_vs_normal": 1.96,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2768,
+          "probability": 0.2972,
           "climatology_base_rate": 0.137,
-          "ratio_vs_normal": 2.02,
+          "ratio_vs_normal": 2.17,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3367,
+          "probability": 0.3485,
           "climatology_base_rate": 0.1367,
-          "ratio_vs_normal": 2.46,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.55,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -2872,45 +2872,45 @@
       "region": "Northeast",
       "lat": 17.1545,
       "lon": 104.1348,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2252,
+          "probability": 0.242,
           "climatology_base_rate": 0.135,
-          "ratio_vs_normal": 1.67,
+          "ratio_vs_normal": 1.79,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.248,
+          "probability": 0.2394,
           "climatology_base_rate": 0.1351,
-          "ratio_vs_normal": 1.84,
+          "ratio_vs_normal": 1.77,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2125,
+          "probability": 0.215,
           "climatology_base_rate": 0.1352,
-          "ratio_vs_normal": 1.57,
+          "ratio_vs_normal": 1.59,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2038,
+          "probability": 0.2762,
           "climatology_base_rate": 0.1348,
-          "ratio_vs_normal": 1.51,
+          "ratio_vs_normal": 2.05,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2792,
+          "probability": 0.3172,
           "climatology_base_rate": 0.1346,
-          "ratio_vs_normal": 2.07,
+          "ratio_vs_normal": 2.36,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -2924,45 +2924,45 @@
       "region": "Northeast",
       "lat": 17.392,
       "lon": 104.769,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2055,
+          "probability": 0.2573,
           "climatology_base_rate": 0.1222,
-          "ratio_vs_normal": 1.68,
+          "ratio_vs_normal": 2.11,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2361,
+          "probability": 0.2725,
           "climatology_base_rate": 0.1222,
-          "ratio_vs_normal": 1.93,
+          "ratio_vs_normal": 2.23,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2144,
+          "probability": 0.239,
           "climatology_base_rate": 0.1223,
-          "ratio_vs_normal": 1.75,
+          "ratio_vs_normal": 1.95,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2197,
+          "probability": 0.2811,
           "climatology_base_rate": 0.1219,
-          "ratio_vs_normal": 1.8,
+          "ratio_vs_normal": 2.31,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2766,
+          "probability": 0.2909,
           "climatology_base_rate": 0.1216,
-          "ratio_vs_normal": 2.27,
+          "ratio_vs_normal": 2.39,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -2976,45 +2976,45 @@
       "region": "Northeast",
       "lat": 16.542,
       "lon": 104.721,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2252,
+          "probability": 0.2152,
           "climatology_base_rate": 0.1247,
-          "ratio_vs_normal": 1.81,
+          "ratio_vs_normal": 1.73,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.252,
+          "probability": 0.2052,
           "climatology_base_rate": 0.1248,
-          "ratio_vs_normal": 2.02,
+          "ratio_vs_normal": 1.64,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2068,
+          "probability": 0.1817,
           "climatology_base_rate": 0.1249,
-          "ratio_vs_normal": 1.66,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
-        },
-        {
-          "lead_weeks": 5,
-          "probability": 0.1802,
-          "climatology_base_rate": 0.1245,
-          "ratio_vs_normal": 1.45,
+          "ratio_vs_normal": 1.46,
           "risk_level_th": "ปกติ",
           "risk_level_en": "Normal"
         },
         {
+          "lead_weeks": 5,
+          "probability": 0.235,
+          "climatology_base_rate": 0.1245,
+          "ratio_vs_normal": 1.89,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
+        },
+        {
           "lead_weeks": 6,
-          "probability": 0.2659,
+          "probability": 0.3069,
           "climatology_base_rate": 0.1242,
-          "ratio_vs_normal": 2.14,
+          "ratio_vs_normal": 2.47,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -3028,47 +3028,47 @@
       "region": "West",
       "lat": 14.0227,
       "lon": 99.5328,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.4465,
+          "probability": 0.252,
           "climatology_base_rate": 0.1213,
-          "ratio_vs_normal": 3.68,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.08,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4668,
+          "probability": 0.2912,
           "climatology_base_rate": 0.121,
-          "ratio_vs_normal": 3.86,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.41,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.4242,
+          "probability": 0.247,
           "climatology_base_rate": 0.1211,
-          "ratio_vs_normal": 3.5,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.04,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3965,
+          "probability": 0.2723,
           "climatology_base_rate": 0.1206,
-          "ratio_vs_normal": 3.29,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.26,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.4101,
+          "probability": 0.2832,
           "climatology_base_rate": 0.1201,
-          "ratio_vs_normal": 3.42,
-          "risk_level_th": "สูง",
-          "risk_level_en": "High"
+          "ratio_vs_normal": 2.36,
+          "risk_level_th": "ค่อนข้างสูง",
+          "risk_level_en": "Elevated"
         }
       ]
     },
@@ -3080,45 +3080,45 @@
       "region": "West",
       "lat": 14.4745,
       "lon": 100.1177,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3876,
+          "probability": 0.3319,
           "climatology_base_rate": 0.1222,
-          "ratio_vs_normal": 3.17,
+          "ratio_vs_normal": 2.72,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4064,
+          "probability": 0.3582,
           "climatology_base_rate": 0.122,
-          "ratio_vs_normal": 3.33,
+          "ratio_vs_normal": 2.94,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3611,
+          "probability": 0.3073,
           "climatology_base_rate": 0.122,
-          "ratio_vs_normal": 2.96,
+          "ratio_vs_normal": 2.52,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3422,
+          "probability": 0.3238,
           "climatology_base_rate": 0.1216,
-          "ratio_vs_normal": 2.81,
+          "ratio_vs_normal": 2.66,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.3832,
+          "probability": 0.3562,
           "climatology_base_rate": 0.121,
-          "ratio_vs_normal": 3.17,
+          "ratio_vs_normal": 2.94,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3132,45 +3132,45 @@
       "region": "West",
       "lat": 13.5283,
       "lon": 99.8134,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.4118,
+          "probability": 0.3224,
           "climatology_base_rate": 0.1152,
-          "ratio_vs_normal": 3.57,
+          "ratio_vs_normal": 2.8,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4353,
+          "probability": 0.3676,
           "climatology_base_rate": 0.1153,
-          "ratio_vs_normal": 3.78,
+          "ratio_vs_normal": 3.19,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.4052,
+          "probability": 0.3289,
           "climatology_base_rate": 0.1154,
-          "ratio_vs_normal": 3.51,
+          "ratio_vs_normal": 2.85,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3921,
+          "probability": 0.3501,
           "climatology_base_rate": 0.1149,
-          "ratio_vs_normal": 3.41,
+          "ratio_vs_normal": 3.05,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.4032,
+          "probability": 0.3519,
           "climatology_base_rate": 0.1143,
-          "ratio_vs_normal": 3.53,
+          "ratio_vs_normal": 3.08,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3184,45 +3184,45 @@
       "region": "West",
       "lat": 13.1119,
       "lon": 99.9399,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.4633,
+          "probability": 0.5269,
           "climatology_base_rate": 0.1082,
-          "ratio_vs_normal": 4.28,
+          "ratio_vs_normal": 4.87,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.4697,
+          "probability": 0.5393,
           "climatology_base_rate": 0.1082,
-          "ratio_vs_normal": 4.34,
+          "ratio_vs_normal": 4.98,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3999,
+          "probability": 0.4635,
           "climatology_base_rate": 0.1083,
-          "ratio_vs_normal": 3.69,
+          "ratio_vs_normal": 4.28,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.38,
+          "probability": 0.4436,
           "climatology_base_rate": 0.1084,
-          "ratio_vs_normal": 3.51,
+          "ratio_vs_normal": 4.09,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.376,
+          "probability": 0.4508,
           "climatology_base_rate": 0.1084,
-          "ratio_vs_normal": 3.47,
+          "ratio_vs_normal": 4.16,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3236,47 +3236,47 @@
       "region": "West",
       "lat": 11.8126,
       "lon": 99.7957,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2623,
+          "probability": 0.3848,
           "climatology_base_rate": 0.1162,
-          "ratio_vs_normal": 2.26,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.31,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2747,
+          "probability": 0.3978,
           "climatology_base_rate": 0.1163,
-          "ratio_vs_normal": 2.36,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.42,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2234,
+          "probability": 0.3332,
           "climatology_base_rate": 0.1164,
-          "ratio_vs_normal": 1.92,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.86,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2247,
+          "probability": 0.3195,
           "climatology_base_rate": 0.1164,
-          "ratio_vs_normal": 1.93,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.74,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2267,
+          "probability": 0.3377,
           "climatology_base_rate": 0.1165,
-          "ratio_vs_normal": 1.95,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.9,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -3288,45 +3288,45 @@
       "region": "South",
       "lat": 8.4304,
       "lon": 99.9631,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.1883,
+          "probability": 0.2068,
           "climatology_base_rate": 0.101,
-          "ratio_vs_normal": 1.86,
+          "ratio_vs_normal": 2.05,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.1987,
+          "probability": 0.2108,
           "climatology_base_rate": 0.1011,
-          "ratio_vs_normal": 1.97,
+          "ratio_vs_normal": 2.08,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.173,
+          "probability": 0.1765,
           "climatology_base_rate": 0.1012,
-          "ratio_vs_normal": 1.71,
+          "ratio_vs_normal": 1.74,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.1844,
+          "probability": 0.1915,
           "climatology_base_rate": 0.1012,
-          "ratio_vs_normal": 1.82,
+          "ratio_vs_normal": 1.89,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.1957,
+          "probability": 0.2159,
           "climatology_base_rate": 0.1013,
-          "ratio_vs_normal": 1.93,
+          "ratio_vs_normal": 2.13,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -3340,47 +3340,47 @@
       "region": "South",
       "lat": 8.0863,
       "lon": 98.9063,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.1831,
+          "probability": 0.2263,
           "climatology_base_rate": 0.0802,
-          "ratio_vs_normal": 2.28,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.82,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.1963,
+          "probability": 0.2711,
           "climatology_base_rate": 0.0802,
-          "ratio_vs_normal": 2.45,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.38,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.1911,
+          "probability": 0.2645,
           "climatology_base_rate": 0.0803,
-          "ratio_vs_normal": 2.38,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.29,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.1946,
+          "probability": 0.2643,
           "climatology_base_rate": 0.0803,
-          "ratio_vs_normal": 2.42,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.29,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.1704,
+          "probability": 0.2485,
           "climatology_base_rate": 0.0804,
-          "ratio_vs_normal": 2.12,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.09,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -3392,47 +3392,47 @@
       "region": "South",
       "lat": 8.4509,
       "lon": 98.5256,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.1613,
+          "probability": 0.2124,
           "climatology_base_rate": 0.0908,
-          "ratio_vs_normal": 1.78,
+          "ratio_vs_normal": 2.34,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.1682,
+          "probability": 0.2554,
           "climatology_base_rate": 0.0909,
-          "ratio_vs_normal": 1.85,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.81,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.1721,
+          "probability": 0.252,
           "climatology_base_rate": 0.0909,
-          "ratio_vs_normal": 1.89,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.77,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.1972,
+          "probability": 0.2561,
           "climatology_base_rate": 0.091,
-          "ratio_vs_normal": 2.17,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.81,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.1755,
+          "probability": 0.2498,
           "climatology_base_rate": 0.091,
-          "ratio_vs_normal": 1.93,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.74,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -3444,45 +3444,45 @@
       "region": "South",
       "lat": 7.8804,
       "lon": 98.3923,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3799,
+          "probability": 0.446,
           "climatology_base_rate": 0.1057,
-          "ratio_vs_normal": 3.59,
+          "ratio_vs_normal": 4.22,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3914,
+          "probability": 0.4426,
           "climatology_base_rate": 0.1058,
-          "ratio_vs_normal": 3.7,
+          "ratio_vs_normal": 4.18,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3336,
+          "probability": 0.3733,
           "climatology_base_rate": 0.1058,
-          "ratio_vs_normal": 3.15,
+          "ratio_vs_normal": 3.53,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3121,
+          "probability": 0.3609,
           "climatology_base_rate": 0.1059,
-          "ratio_vs_normal": 2.95,
+          "ratio_vs_normal": 3.41,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2878,
+          "probability": 0.3359,
           "climatology_base_rate": 0.106,
-          "ratio_vs_normal": 2.72,
+          "ratio_vs_normal": 3.17,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3496,47 +3496,47 @@
       "region": "South",
       "lat": 9.1382,
       "lon": 99.3217,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2143,
+          "probability": 0.2992,
           "climatology_base_rate": 0.1046,
-          "ratio_vs_normal": 2.05,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.86,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2326,
+          "probability": 0.3145,
           "climatology_base_rate": 0.1047,
-          "ratio_vs_normal": 2.22,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.0,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2037,
+          "probability": 0.2763,
           "climatology_base_rate": 0.1047,
-          "ratio_vs_normal": 1.95,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.64,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2072,
+          "probability": 0.2763,
           "climatology_base_rate": 0.1048,
-          "ratio_vs_normal": 1.98,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.64,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2058,
+          "probability": 0.2929,
           "climatology_base_rate": 0.1049,
-          "ratio_vs_normal": 1.96,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 2.79,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -3548,45 +3548,45 @@
       "region": "South",
       "lat": 9.9528,
       "lon": 98.6085,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3416,
+          "probability": 0.3717,
           "climatology_base_rate": 0.0931,
-          "ratio_vs_normal": 3.67,
+          "ratio_vs_normal": 3.99,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3308,
+          "probability": 0.3804,
           "climatology_base_rate": 0.0931,
-          "ratio_vs_normal": 3.55,
+          "ratio_vs_normal": 4.08,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2765,
+          "probability": 0.3222,
           "climatology_base_rate": 0.0932,
-          "ratio_vs_normal": 2.97,
+          "ratio_vs_normal": 3.46,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2656,
+          "probability": 0.3173,
           "climatology_base_rate": 0.0933,
-          "ratio_vs_normal": 2.85,
+          "ratio_vs_normal": 3.4,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2396,
+          "probability": 0.3114,
           "climatology_base_rate": 0.0933,
-          "ratio_vs_normal": 2.57,
+          "ratio_vs_normal": 3.34,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3600,45 +3600,45 @@
       "region": "South",
       "lat": 10.493,
       "lon": 99.18,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3893,
+          "probability": 0.3939,
           "climatology_base_rate": 0.1158,
-          "ratio_vs_normal": 3.36,
+          "ratio_vs_normal": 3.4,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.3991,
+          "probability": 0.3941,
           "climatology_base_rate": 0.1159,
-          "ratio_vs_normal": 3.44,
+          "ratio_vs_normal": 3.4,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.3364,
+          "probability": 0.3222,
           "climatology_base_rate": 0.116,
-          "ratio_vs_normal": 2.9,
+          "ratio_vs_normal": 2.78,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.3237,
+          "probability": 0.3111,
           "climatology_base_rate": 0.1161,
-          "ratio_vs_normal": 2.79,
+          "ratio_vs_normal": 2.68,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2975,
+          "probability": 0.3198,
           "climatology_base_rate": 0.1161,
-          "ratio_vs_normal": 2.56,
+          "ratio_vs_normal": 2.75,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3652,47 +3652,47 @@
       "region": "South",
       "lat": 7.1896,
       "lon": 100.5945,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.3057,
+          "probability": 0.3761,
           "climatology_base_rate": 0.1027,
-          "ratio_vs_normal": 2.98,
+          "ratio_vs_normal": 3.66,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2977,
+          "probability": 0.388,
           "climatology_base_rate": 0.1027,
-          "ratio_vs_normal": 2.9,
+          "ratio_vs_normal": 3.78,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2605,
+          "probability": 0.3542,
           "climatology_base_rate": 0.1028,
-          "ratio_vs_normal": 2.53,
+          "ratio_vs_normal": 3.44,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2492,
+          "probability": 0.3553,
           "climatology_base_rate": 0.1029,
-          "ratio_vs_normal": 2.42,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.45,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2366,
+          "probability": 0.3564,
           "climatology_base_rate": 0.1029,
-          "ratio_vs_normal": 2.3,
-          "risk_level_th": "ค่อนข้างสูง",
-          "risk_level_en": "Elevated"
+          "ratio_vs_normal": 3.46,
+          "risk_level_th": "สูง",
+          "risk_level_en": "High"
         }
       ]
     },
@@ -3704,45 +3704,45 @@
       "region": "South",
       "lat": 6.6238,
       "lon": 100.0673,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2608,
+          "probability": 0.2385,
           "climatology_base_rate": 0.0931,
-          "ratio_vs_normal": 2.8,
+          "ratio_vs_normal": 2.56,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2714,
+          "probability": 0.2391,
           "climatology_base_rate": 0.0931,
-          "ratio_vs_normal": 2.91,
+          "ratio_vs_normal": 2.57,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2318,
+          "probability": 0.1916,
           "climatology_base_rate": 0.0932,
-          "ratio_vs_normal": 2.49,
+          "ratio_vs_normal": 2.06,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2293,
+          "probability": 0.198,
           "climatology_base_rate": 0.0933,
-          "ratio_vs_normal": 2.46,
+          "ratio_vs_normal": 2.12,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.223,
+          "probability": 0.2075,
           "climatology_base_rate": 0.0933,
-          "ratio_vs_normal": 2.39,
+          "ratio_vs_normal": 2.22,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -3756,45 +3756,45 @@
       "region": "South",
       "lat": 7.5563,
       "lon": 99.6114,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.1865,
+          "probability": 0.1811,
           "climatology_base_rate": 0.0752,
-          "ratio_vs_normal": 2.48,
+          "ratio_vs_normal": 2.41,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.1926,
+          "probability": 0.2076,
           "climatology_base_rate": 0.0753,
-          "ratio_vs_normal": 2.56,
+          "ratio_vs_normal": 2.76,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.1929,
+          "probability": 0.2018,
           "climatology_base_rate": 0.0753,
-          "ratio_vs_normal": 2.56,
+          "ratio_vs_normal": 2.68,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2014,
+          "probability": 0.2177,
           "climatology_base_rate": 0.0754,
-          "ratio_vs_normal": 2.67,
+          "ratio_vs_normal": 2.89,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.1915,
+          "probability": 0.2174,
           "climatology_base_rate": 0.0754,
-          "ratio_vs_normal": 2.54,
+          "ratio_vs_normal": 2.88,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3808,45 +3808,45 @@
       "region": "South",
       "lat": 7.6167,
       "lon": 100.0742,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.245,
+          "probability": 0.3218,
           "climatology_base_rate": 0.0975,
-          "ratio_vs_normal": 2.51,
+          "ratio_vs_normal": 3.3,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2675,
+          "probability": 0.3437,
           "climatology_base_rate": 0.0975,
-          "ratio_vs_normal": 2.74,
+          "ratio_vs_normal": 3.52,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2539,
+          "probability": 0.3255,
           "climatology_base_rate": 0.0976,
-          "ratio_vs_normal": 2.6,
+          "ratio_vs_normal": 3.34,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2448,
+          "probability": 0.3325,
           "climatology_base_rate": 0.0977,
-          "ratio_vs_normal": 2.51,
+          "ratio_vs_normal": 3.41,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2546,
+          "probability": 0.3324,
           "climatology_base_rate": 0.0977,
-          "ratio_vs_normal": 2.61,
+          "ratio_vs_normal": 3.4,
           "risk_level_th": "สูง",
           "risk_level_en": "High"
         }
@@ -3860,45 +3860,45 @@
       "region": "South",
       "lat": 6.8692,
       "lon": 101.255,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2102,
+          "probability": 0.2122,
           "climatology_base_rate": 0.1104,
-          "ratio_vs_normal": 1.9,
+          "ratio_vs_normal": 1.92,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2267,
+          "probability": 0.2335,
           "climatology_base_rate": 0.1104,
-          "ratio_vs_normal": 2.05,
+          "ratio_vs_normal": 2.11,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2082,
+          "probability": 0.2167,
           "climatology_base_rate": 0.1105,
-          "ratio_vs_normal": 1.88,
+          "ratio_vs_normal": 1.96,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2083,
+          "probability": 0.2448,
           "climatology_base_rate": 0.1106,
-          "ratio_vs_normal": 1.88,
+          "ratio_vs_normal": 2.21,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2233,
+          "probability": 0.2621,
           "climatology_base_rate": 0.1106,
-          "ratio_vs_normal": 2.02,
+          "ratio_vs_normal": 2.37,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -3912,45 +3912,45 @@
       "region": "South",
       "lat": 6.5413,
       "lon": 101.2803,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.1899,
+          "probability": 0.1761,
           "climatology_base_rate": 0.1055,
-          "ratio_vs_normal": 1.8,
+          "ratio_vs_normal": 1.67,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2135,
+          "probability": 0.1994,
           "climatology_base_rate": 0.1056,
-          "ratio_vs_normal": 2.02,
+          "ratio_vs_normal": 1.89,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2107,
+          "probability": 0.1933,
           "climatology_base_rate": 0.1056,
-          "ratio_vs_normal": 1.99,
+          "ratio_vs_normal": 1.83,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2163,
+          "probability": 0.2192,
           "climatology_base_rate": 0.1057,
-          "ratio_vs_normal": 2.05,
+          "ratio_vs_normal": 2.07,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2268,
+          "probability": 0.2384,
           "climatology_base_rate": 0.1058,
-          "ratio_vs_normal": 2.14,
+          "ratio_vs_normal": 2.25,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
@@ -3964,45 +3964,45 @@
       "region": "South",
       "lat": 6.4254,
       "lon": 101.8253,
-      "issue_date": "2026-07-07",
+      "issue_date": "2026-07-14",
       "forecasts": [
         {
           "lead_weeks": 2,
-          "probability": 0.2101,
+          "probability": 0.2377,
           "climatology_base_rate": 0.1051,
-          "ratio_vs_normal": 2.0,
+          "ratio_vs_normal": 2.26,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 3,
-          "probability": 0.2327,
+          "probability": 0.2587,
           "climatology_base_rate": 0.1052,
-          "ratio_vs_normal": 2.21,
+          "ratio_vs_normal": 2.46,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 4,
-          "probability": 0.2091,
+          "probability": 0.2291,
           "climatology_base_rate": 0.1053,
-          "ratio_vs_normal": 1.99,
+          "ratio_vs_normal": 2.18,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 5,
-          "probability": 0.2085,
+          "probability": 0.239,
           "climatology_base_rate": 0.1053,
-          "ratio_vs_normal": 1.98,
+          "ratio_vs_normal": 2.27,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         },
         {
           "lead_weeks": 6,
-          "probability": 0.2121,
+          "probability": 0.2483,
           "climatology_base_rate": 0.1054,
-          "ratio_vs_normal": 2.01,
+          "ratio_vs_normal": 2.36,
           "risk_level_th": "ค่อนข้างสูง",
           "risk_level_en": "Elevated"
         }
